@@ -28,7 +28,6 @@ cd house-price-prediction
 ## File Structure
 
 - `house_price_prediction.ipynb`: Jupyter notebook containing the code.
-- `requirements.txt`: List of Python dependencies.
 
 ## Model Evaluation
 
