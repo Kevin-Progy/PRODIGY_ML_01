@@ -12,8 +12,9 @@ git clone https://github.com/your-username/house-price-prediction.git
 cd house-price-prediction
 
 2. **Install Dependencies:**
+!pip install scikit-learn
 
-3. **Upload Dataset:**
+4. **Upload Dataset:**
 - Download the dataset from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 - Upload the downloaded dataset file (`train.csv`) to the repository.
 
